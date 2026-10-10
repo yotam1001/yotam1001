@@ -1,6 +1,6 @@
 # Yotam Moshe
 
-Student developer in Israel. I build practical tools in Python, C# and JavaScript, and contribute fixes to open-source projects.
+Student developer. I build practical tools in Python, C# and JavaScript, and contribute fixes to open-source projects.
 
 My interests are systems programming, cybersecurity and understanding how software behaves when things go wrong. My projects include file integrity checks, isolated Git command previews, offline desktop applications and browser graphics.
 
